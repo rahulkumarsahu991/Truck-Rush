@@ -3,7 +3,7 @@
 A 3D Indian-highway truck driving game that runs in the browser — on a phone or a laptop, no install.
 Developed for fun and to build my skills.
 
-**Play:** https://rahulkumarsahu991.github.io/Daman-Truck-Rush/
+**Play:** https://rahulkumarsahu991.github.io/truck-rush/
 
 ## What's in it
 
